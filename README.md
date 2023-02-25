@@ -18,6 +18,7 @@ I ocassionally blog and tweet about Web development. Also i'm gonna open sourced
 ## Things I am passionate about
 
 - Flutter
+- React
 - Open source
 
 ## Get in touch :coffee:
