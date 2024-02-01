@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://i.postimg.cc/CM99qCtd/Blue-Black-Modern-Coding-Bootcamp-Facebook-Banner-min.jpg" alt="Hello world">
+<img src="https://i.postimg.cc/TPYR344t/Rajli-cover.png" alt="Cover img">
 
 
 <p align="center"> 
