@@ -1,4 +1,3 @@
-# Hey there :wave:
 
 <img src="https://i.postimg.cc/TPYR344t/Rajli-cover.png" alt="Cover img">
 
