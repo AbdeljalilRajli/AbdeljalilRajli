@@ -8,7 +8,7 @@
       
 ## About me
 
-I'm Abdeljalil Rajli. A Web Developer and :coffee: lover. 
+I'm Abdeljalil Rajli. A Full-stack Developer and :coffee: lover. 
 
 I ocassionally blog and tweet about Web development. Also i'm gonna open sourced few web apps.  
 
