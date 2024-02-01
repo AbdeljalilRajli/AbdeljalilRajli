@@ -2,10 +2,6 @@
 
 <img src="https://i.postimg.cc/TPYR344t/Rajli-cover.png" alt="Cover img">
 
-
-<table>
-  <tr>  
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
       
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
       
