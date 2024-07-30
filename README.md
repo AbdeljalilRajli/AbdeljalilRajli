@@ -28,8 +28,6 @@ I ocassionally blog and tweet about Web development. Also i'm gonna open sourced
 - And of course GitHub you're already on (Recursion).
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdeljalilRajli)](https://github.com/AbdeljalilRajli)
-
 <!--- 👋 Hi, I’m @Abdeljalil Rajli
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
