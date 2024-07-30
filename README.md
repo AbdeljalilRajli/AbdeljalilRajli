@@ -1,5 +1,5 @@
 
-<img src="https://i.postimg.cc/J0Pw24wn/bannner-for-github.png" alt="Cover img">
+<img src="https://i.postimg.cc/J0Pw24wn/bannner-for-github.png" alt="Cover img" style="border-radius: 80px;">
 
 
 
