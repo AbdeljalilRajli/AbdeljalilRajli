@@ -37,7 +37,7 @@ I ocassionally blog and tweet about Web development. Also i'm gonna open sourced
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-AbdeljalilRajli&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdeljalilRajli&layout=compact)
 
 <!--- 👋 Hi, I’m @Abdeljalil Rajli
 - 👀 I’m interested in ...
