@@ -35,6 +35,9 @@ I ocassionally blog and tweet about Web development. Also i'm gonna open sourced
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/abdeljalil-rajli-02b3a91b3)
 - And of course GitHub you're already on (Recursion).
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-AbdeljalilRajli&layout=compact)
 
 <!--- 👋 Hi, I’m @Abdeljalil Rajli
 - 👀 I’m interested in ...
